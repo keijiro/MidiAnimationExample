@@ -1,0 +1,14 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [ "jp.keijiro" ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.timeline": "1.3.2",
+    "jp.keijiro.kino.post-processing": "2.1.12",
+    "jp.keijiro.klak.timeline.midi": "1.0.3"
+  }
+}
