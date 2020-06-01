@@ -18,5 +18,8 @@ Desktop.ini
 /Logs
 /Temp
 
+/Recordings/*.mov
+/Recordings/*.mp4
+
 # Ableton Live
 /Ableton/Backup
