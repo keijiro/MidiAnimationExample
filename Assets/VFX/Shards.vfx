@@ -19,9 +19,9 @@ MonoBehaviour:
   uiBounds:
     serializedVersion: 2
     x: 753
-    y: -476
+    y: -420
     width: 615
-    height: 2734
+    height: 2680
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1275,7 +1275,7 @@ VisualEffectResource:
     - name: OnStop
       playSystems: 
       stopSystems: 00000000
-    - name: Fire
+    - name: EmitShards
       playSystems: 00000000
       stopSystems: 
     m_RuntimeVersion: 10
@@ -4501,7 +4501,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 888, y: -476}
+  m_UIPosition: {x: 938, y: -420}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -4514,7 +4514,7 @@ MonoBehaviour:
   - link:
     - context: {fileID: 8926484042661614555}
       slotIndex: 0
-  eventName: Fire
+  eventName: EmitShards
 --- !u!114 &8926484042661614677
 MonoBehaviour:
   m_ObjectHideFlags: 0

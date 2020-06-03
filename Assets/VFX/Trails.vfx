@@ -62,9 +62,9 @@ MonoBehaviour:
   uiBounds:
     serializedVersion: 2
     x: -1003
-    y: -361
+    y: -356
     width: 3393
-    height: 2853
+    height: 2850
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1542,7 +1542,7 @@ VisualEffectResource:
     - name: OnStop
       playSystems: 
       stopSystems: 00000000
-    - name: Fire
+    - name: EmitTrails
       playSystems: 00000000
       stopSystems: 
     m_RuntimeVersion: 10
@@ -8170,7 +8170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Parent: {fileID: 114350483966674976}
   m_Children: []
-  m_UIPosition: {x: 908, y: -361}
+  m_UIPosition: {x: 930, y: -356}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
@@ -8183,7 +8183,7 @@ MonoBehaviour:
   - link:
     - context: {fileID: 8926484042661614555}
       slotIndex: 0
-  eventName: Fire
+  eventName: EmitTrails
 --- !u!114 &8926484042661614957
 MonoBehaviour:
   m_ObjectHideFlags: 0
