@@ -7,8 +7,8 @@
 ![screenshot](https://i.imgur.com/pXnUcLx.png)
 
 **MidiAnimtionExample** is an example project used in [a webinar] introducing
-[the MIDI Animation Track package] that allows creating animations/effects from
-standard MIDI (.mid) files.
+[the MIDI Animation Track package] that allows controlling animations/effects
+from standard MIDI files (.mid).
 
 [a webinar]: https://www.youtube.com/watch?v=JxUcGRTHnL8
 
